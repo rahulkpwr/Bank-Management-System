@@ -59,4 +59,29 @@ BankManagementSystem/
    javac -cp lib/mysql-connector-java.jar src/*.java
    java -cp "lib/mysql-connector-java.jar;src" Main
 
+**📸 Screenshots**
+
+<img width="800" height="1000" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/3d94c0ac-70f6-42f0-8c7a-3fcfa226587a" />
+
+<img width="800" height="1000" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/40b142d7-8e4b-4ac9-bda4-2367848f97c5" />
+
+<img width="800" height="1000" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/f8304ac3-532a-4f77-b6cb-dad044ac93d2" />
+
+<img width="800" height="1000" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/7de3b8dc-50c0-417e-aa52-3a7314d41430" />
+
+<img width="800" height="1000" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/5bb81f06-99c1-44ca-9ae6-02a541589487" />
+
+<img width="800" height="1000" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/af69f8ac-22b9-47dc-bbe2-d13f796a2d6f" />
+
+<img width="800" height="1000" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/b4537aad-72da-4a39-9f7d-b3bea788df06" />
+
+
+
+
+
+
+
+
+
+
 
