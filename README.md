@@ -77,9 +77,13 @@ BankManagementSystem/
 
 
 📈 Future Enhancements
+
 Online banking with web integration.
+
 OTP-based authentication for transactions.
+
 Role-based access (Admin/Customer).
+
 Enhanced security with password hashing.
 
 
