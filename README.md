@@ -76,6 +76,15 @@ BankManagementSystem/
 <img width="800" height="1000" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/b4537aad-72da-4a39-9f7d-b3bea788df06" />
 
 
+📈 Future Enhancements
+Online banking with web integration.
+OTP-based authentication for transactions.
+Role-based access (Admin/Customer).
+Enhanced security with password hashing.
+
+
+
+
 
 
 
